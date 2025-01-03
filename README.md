@@ -3,7 +3,7 @@
 [![Naver Blog Badge](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/genie290/223339723162)
 [![Naver Blog Badge](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/genie290/223490692662)
 ---
-## 1. React App 실행
+## 1. React Application 실행
 - 필수 명령
 
 ### `npm start`
